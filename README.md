@@ -18,8 +18,6 @@ This project implements a **Demand Forecasting** application to forecast the dem
   - [ARIMA Model](#arima-model)
   - [Visualization](#visualization)
 - [Streamlit Application](#streamlit-application)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
